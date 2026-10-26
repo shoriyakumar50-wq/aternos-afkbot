@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":PLAYIMESMP.aternos.me:48582,
+	"port": 48582,
+	"name": "pro apk bot"
 }
